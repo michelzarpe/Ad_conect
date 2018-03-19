@@ -12,9 +12,9 @@ Projeto:
 	2.3 Validar Token
 	2.4 Gravar ID, relacionar com Colaborador
 
-3) Sugestão de usuário
+3) Criação de usuário (Porta[] E-mail[] Sistema[] Todos[]): 
 	3.1 apresentar sugestão de novo usuário (nome.sobrenomeAAAAMM)
 
-4) Alteração de senha:
+4) Alteração de senha (Porta[] E-mail[] Sistema[] Todos[]):
 
-5) Desbloqueio:
+5) Desbloqueio (Porta[] E-mail[] Sistema[] Todos[]):
