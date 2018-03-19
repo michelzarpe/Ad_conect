@@ -4,6 +4,8 @@ Projeto INTERNO:
 	1.2 Desconectar
 	1.3 Excluir
 	1.4 Adicionar
+	1.4 ListarTodosUsuario
+	1.5 ListarUnicoUsuario
 	
 2) Authy:
 	2.1 Adicionar
