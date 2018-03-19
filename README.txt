@@ -16,16 +16,16 @@ public class Executando {
 
 	public static void main(String[] args) {
 		
-		AuthyApiClient client = new AuthyApiClient("2XH0IERZ23s4mqoiIPJx8RNZChaLcH0A");
+		AuthyApiClient client = new AuthyApiClient("5498465438464sdf4a6df48asdf48ad8sd");
 		Users users = client.getUsers();
 		
 		Tokens tokens = client.getTokens();
 		String token = JOptionPane.showInputDialog("Digite Aqui: ");  
-		Token verification = tokens.verify(76048082, token);
+		Token verification = tokens.verify(546545, token);
 		System.out.println(verification.isOk());
 		
 		//Criar novo usuario Token
-		User user = users.createUser("michelzarpe@gmail.com", "49998231684", "55");
+		User user = users.createUser("561684@gmail.com", "56498484", "55");
 		System.out.println(user.getId());
 		
 		//Deletar Usuario
