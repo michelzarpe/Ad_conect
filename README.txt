@@ -25,7 +25,7 @@ public class Executando {
 		System.out.println(verification.isOk());
 		
 		//Criar novo usuario Token
-		User user = users.createUser("561684@gmail.com", "56498484", "55");
+		User user = users.createUser("561684@gmail.com", "", "55");
 		System.out.println(user.getId());
 		
 		//Deletar Usuario
