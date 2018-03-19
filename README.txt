@@ -1,5 +1,4 @@
 Projeto INTERNO:
-
 1) PowerShell:
 	1.1 Conectar
 	1.2 Desconectar
